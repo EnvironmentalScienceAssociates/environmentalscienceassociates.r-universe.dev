@@ -14,5 +14,9 @@
     {
         "package": "delver",
         "url": "https://github.com/EnvironmentalScienceAssociates/delver"
+    },
+    {
+        "package": "ColumbusGPS",
+        "url": "https://github.com/EnvironmentalScienceAssociates/ColumbusGPS"
     }
 ]
