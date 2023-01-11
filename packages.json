@@ -1,0 +1,18 @@
+[
+    {
+        "package": "fulcrumr",
+        "url": "https://github.com/EnvironmentalScienceAssociates/fulcrumr"
+    },
+    {
+        "package": "tbsa",
+        "url": "https://github.com/EnvironmentalScienceAssociates/tbsa"
+    },
+    {
+        "package": "esaRmisc",
+        "url": "https://github.com/EnvironmentalScienceAssociates/esaRmisc"
+    },
+    {
+        "package": "delver",
+        "url": "https://github.com/EnvironmentalScienceAssociates/delver"
+    }
+]
